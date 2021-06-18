@@ -2,7 +2,7 @@
 
 ### Топология
 
-![Топология](https://github.com/Zeph1rr/web/blob/master/img/ipt1.png)
+![Топология](https://github.com/ozorolol/web/blob/main/img/ipt1.png)
 
 ### Настройки сети
 
@@ -24,7 +24,7 @@
   iface ens3 inet dhcp
   ```
 - На PC-1:
-  ![Сетка](https://github.com/Zeph1rr/web/blob/master/img/ipt5.png)
+  ![Сетка](https://github.com/ozorolol/web/blob/main/img/ipt5.png)
 
   
 ### Настройки политик iptables
@@ -37,7 +37,7 @@
   
 ### Доказательство работы. 
 #### С PC-1 пытаемся пропинговать и подключиться по SSH на наш сервер:
-![Пинги](https://github.com/Zeph1rr/web/blob/master/img/ipt3.png)
+![Пинги](https://github.com/ozorolol/web/blob/main/img/ipt3.png)
 #### Как видим, у нас это не получается. 
 #### Теперь попытаемся достучаться по 80 порту:
-![Веб](https://github.com/Zeph1rr/web/blob/master/img/ipt4.png)
+![Веб](https://github.com/ozorolol/web/blob/main/img/ipt4.png)

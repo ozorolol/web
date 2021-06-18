@@ -2,7 +2,7 @@
 
 ### Топология
 
-![Топология](https://github.com/Zeph1rr/web/blob/master/img/gre1.png)
+![Топология](https://github.com/ozorolol/web/blob/master/img/gre1.png)
 
 ### Сетевые настройки на маршрутизаторах и VPC:
 #### R-1
@@ -116,5 +116,5 @@
   ```
 ### Доказательство работы:
 #### Проводим трассировку и пинг с VPC-9 до VPC-8:
-![Ping/Trace](https://github.com/Zeph1rr/web/blob/master/img/gre2.png)
+![Ping/Trace](https://github.com/ozorolol/web/blob/master/img/gre2.png)
   

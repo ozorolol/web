@@ -2,7 +2,7 @@
 
 ### Топология:
 
-![Топология](https://github.com/Zeph1rr/web/blob/master/img/mpls1.png)
+![Топология](https://github.com/ozorolol/web/blob/main/img/mpls1.png)
 
 ### Сетевые настройки на маршрутизаторах и VPC
 #### MPLS-1
@@ -211,5 +211,5 @@ do wr
   do wr
   ```
 ### Доказательство работы:
-![Доказательство№1](https://github.com/Zeph1rr/web/blob/master/img/mpls2.png)
-![Доказательство№2](https://github.com/Zeph1rr/web/blob/master/img/mpls3.png)
+![Доказательство№1](https://github.com/ozorolol/web/blob/main/img/mpls2.png)
+![Доказательство№2](https://github.com/ozorolol/web/blob/main/img/mpls3.png)

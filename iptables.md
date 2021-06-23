@@ -4,6 +4,12 @@
 
 ![Топология](https://github.com/ozorolol/web/blob/main/img/ipt1.png)
 
+### Состав топологии
+
+- Linux: Ubuntu 16.04 Server. 1024mb RAM, Ethernet 1 x2
+- Cisco IOL: Switch - L2 образ. 256mb RAM x1
+- Linux: kali x1
+
 ### Настройки сети
 
 - На Firewall:

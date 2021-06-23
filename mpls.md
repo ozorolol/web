@@ -1,8 +1,14 @@
 # Лабораторная работа №10 MPLS
 
-### Топология:
+### Топология
 
 ![Топология](https://github.com/ozorolol/web/blob/main/img/mpls1.png)
+
+### Состав топологии
+
+- Cisco IOL: Router - L3 образ. 512mb RAM, Ethernet portGroup - 1. x4
+- Cisco IOL: Switch - L2 образ. 256mb RAM, Ethernet portGroup - 2. x2
+- VPC x2
 
 ### Сетевые настройки на маршрутизаторах и VPC
 #### MPLS-1

@@ -9,6 +9,7 @@
 - Linux: Ubuntu 16.04 Server. 1024mb RAM, Ethernet 1 x3
 - Linux: kali x2
 - Cisco IOL: Switch - L2 образ. 256mb RAM, Ethernet portGroup - 1. x2
+- Firewall pfsense x2
 
 ### Авторизация:
 

@@ -4,6 +4,11 @@
 
 ![Топология](https://github.com/ozorolol/web/blob/main/img/gre1.png)
 
+### Состав топоологии:
+
+- Cisco IOL: Router - L3 образ. 512mb RAM x3
+- VPC x2
+
 ### Сетевые настройки на маршрутизаторах и VPC:
 #### R-1
   ```
